@@ -1,4 +1,4 @@
-# Digit classification using the softmax activation function
+# Digit classification using CNN with softmax activation function
 
 ## The neural network used in this model:
 <p align="center">
