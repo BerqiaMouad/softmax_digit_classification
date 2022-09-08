@@ -10,12 +10,9 @@
 + On the trainning set = 99.67%
 + On the test set = 98.68 %
 
-### The link to the app to test the model:
-
-https://huggingface.co/spaces/mouadberqia/digit_classification
-
 ### Some informations:
-<b>The accuracy is less precise in the app because the sketchpad does not center the digits so the model gets confused</b>
+<b>To run the app just use ```python3 app.py``` in the terminla </b>
 <br/><br/>
-<b>I will work on that in the future, the important part is the model's accuracy not the app.</b>
+<b>when you center the digit you want to recognize, click on the window to turn the background black and you will see a center to pose your digit.</b>
+<b>To quit the app just press <i>q</i></b>
 
