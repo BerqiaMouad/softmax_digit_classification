@@ -7,8 +7,8 @@
 
 ### The accuracy of the model is approximatly :
 
-+ On the trainning set = 99.9%
-+ On the test set = 97.9 %
++ On the trainning set = 99.67%
++ On the test set = 98.68 %
 
 ### The link to the app to test the model:
 
