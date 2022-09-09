@@ -7,8 +7,8 @@
 
 ### The accuracy of the model is approximatly :
 
-+ On the trainning set = 99.67%
-+ On the test set = 98.68 %
++ On the trainning set = 99.77%
++ On the test set = 99.50 %
 
 ### Some informations:
 <b>To run the app just use ```python3 app.py``` in the terminla </b>
