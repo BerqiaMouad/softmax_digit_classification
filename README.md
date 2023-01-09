@@ -11,7 +11,7 @@
 + On the test set = 99.50 %
 
 ### Some informations:
-<b>To run the app just use ```python3 app.py``` in the terminla </b>
+<b>To run the app just use ```python3 app.py``` in the terminal </b>
 <br/><br/>
 <b>when you center the digit you want to recognize, click on the window to turn the background black and you will see a center to pose your digit.</b>
 <b>To quit the app just press <i>q</i></b>
